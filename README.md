@@ -1,2 +1,2 @@
 # LezGo
-Travel platform for effortless journey
+Travel hustle free
