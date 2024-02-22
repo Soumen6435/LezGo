@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LezGo/static/css/main.d2b359ad.css",
+    "main.js": "/LezGo/static/js/main.7b113462.js",
+    "index.html": "/LezGo/index.html",
+    "main.d2b359ad.css.map": "/LezGo/static/css/main.d2b359ad.css.map",
+    "main.7b113462.js.map": "/LezGo/static/js/main.7b113462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b359ad.css",
+    "static/js/main.7b113462.js"
+  ]
+}
